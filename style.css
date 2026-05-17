@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1F2937;
+    color: white;
+    font-family: Roboto, 'Times New Roman';
+    align-items: center;
+}
+
+.header h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.header-links {
+    display: flex;
+    gap: 16px;
+}
+
+.hlink {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
